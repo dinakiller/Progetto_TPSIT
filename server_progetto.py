@@ -4,7 +4,7 @@ import socket
 # Configurazione database MySQL
 db_config = {
     'user': 'dinakiller',
-    'password': 'superquark/05',
+    'password': 'aledina',
     'host': 'localhost',
     'database': 'db.sql'
 }
